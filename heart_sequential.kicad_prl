@@ -115,8 +115,20 @@
   "project": {
     "files": [
       {
-        "name": "heart_sequential.kicad_sch",
+        "name": "heart_sequential.kicad_pcb",
         "open": true,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": 95,
+          "pos_y": 134,
+          "size_x": 1280,
+          "size_y": 720
+        }
+      },
+      {
+        "name": "heart_sequential.kicad_sch",
+        "open": false,
         "window": {
           "display": 0,
           "maximized": true,
